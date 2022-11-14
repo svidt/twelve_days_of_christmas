@@ -1,3 +1,6 @@
+// Beginner exercise from The Rust Programming Language
+// Print the lyrics from the Christmas carol, Twelve Days of Christmas making use of the repetition 
+
 fn main() {
 
     let dayth = [
